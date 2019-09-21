@@ -9,7 +9,7 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 ## Images are here
 
-![The artic](https://joefidlerblog.s3-us-west-1.amazonaws.com/images/21_09_2019/arctic-1.jpg){:class="img-responsive"}
+![The artic](https://joefidlerblog.s3-us-west-1.amazonaws.com/images/21_09_2019/arctic-1.jpg)
 	
 ![The other artic](https://joefidlerblog.s3-us-west-1.amazonaws.com/images/21_09_2019/arctic-2.jpg)
 
