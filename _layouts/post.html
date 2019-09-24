@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-  {{ content }}
-</div>
+<section>
+  <div class="work-container">
+    <h4 class="project-title">{{ page.title }}</h4>
+    <div class="project-load">{{ content }}</div>
+  </div>
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</section>
+{% include footer.html %}
