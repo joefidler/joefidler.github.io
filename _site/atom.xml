@@ -12,9 +12,7 @@
 				<link>http://localhost:4000/posts/2019/07/03/clouds</link>
 				<guid isPermaLink="true">http://localhost:4000/posts/2019/07/03/clouds</guid>
 				<pubDate>Wed, 03 Jul 2019 08:41:00 +1000</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://ucarecdn.com/7a5968d2-adbc-418d-b4e6-465a5dcabeb9/&quot;&gt;&lt;img src=&quot;https://ucarecdn.com/7a5968d2-adbc-418d-b4e6-465a5dcabeb9/-/preview/2000x1000/&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/21_09_2019/arctic-2.jpg&quot; alt=&quot;The other artic&quot; /&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/21_09_2019/arctic-2.jpg&quot; alt=&quot;The other artic&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pellentesque convallis velit, vel suscipit tortor sollicitudin eget. Aenean finibus diam nec posuere luctus. Nam ut lacus pretium, facilisis neque sed, luctus nisl. Nunc non commodo quam. Etiam imperdiet, quam molestie mollis maximus, lacus leo faucibus risus, ac congue ante enim quis elit. Ut convallis lacus est, sed sollicitudin turpis interdum sed. Donec metus nisl, congue id euismod a, lacinia gravida dolor. Sed efficitur pellentesque nisl, nec interdum ipsum consectetur eget. Integer commodo id nulla et commodo. Sed commodo euismod egestas. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut at lorem id libero mattis condimentum. Praesent sed nibh mauris.&lt;/p&gt;
 
@@ -33,7 +31,9 @@
 				<link>http://localhost:4000/posts/2019/06/27/germany</link>
 				<guid isPermaLink="true">http://localhost:4000/posts/2019/06/27/germany</guid>
 				<pubDate>Thu, 27 Jun 2019 02:32:00 +1000</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://ucarecdn.com/2e9aa62a-a434-48f9-bdca-036e5423b539/&quot;&gt;&lt;img src=&quot;https://ucarecdn.com/2e9aa62a-a434-48f9-bdca-036e5423b539/-/preview/2000x1000/&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+				<description>&lt;h3 id=&quot;big-teddy-bears&quot;&gt;Big teddy bears&lt;/h3&gt;
+
+&lt;p&gt;A story about teddy bears. This is a first paragraph. So it should show up in the exert.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pellentesque convallis velit, vel suscipit tortor sollicitudin eget. Aenean finibus diam nec posuere luctus. Nam ut lacus pretium, facilisis neque sed, luctus nisl. Nunc non commodo quam. Etiam imperdiet, quam molestie mollis maximus, lacus leo faucibus risus, ac congue ante enim quis elit. Ut convallis lacus est, sed sollicitudin turpis interdum sed. Donec metus nisl, congue id euismod a, lacinia gravida dolor. Sed efficitur pellentesque nisl, nec interdum ipsum consectetur eget. Integer commodo id nulla et commodo. Sed commodo euismod egestas. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut at lorem id libero mattis condimentum. Praesent sed nibh mauris.&lt;/p&gt;
 
