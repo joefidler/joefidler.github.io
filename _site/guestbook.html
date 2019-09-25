@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+		<meta name="description" content="My name is Andor, I'm a hungarian software developer living in Haarlem, North Holland. I enjoy making music with my modular synthesizers and documenting my life through photography.
+">
+
+		<title>Guestbook - Andor Polgar's website</title>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82349820-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82349820-1');
+</script>
+
+		
+		<link href="/css/main.css" media="screen" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300|Roboto:900&subset=latin-ext" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+
+		<link rel="alternate" type="application/atom+xml" title="Andor Polgar's website" href="/atom.xml" />
+
+		<link rel="canonical" href="http://localhost:4000/guestbook" />
+
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="header">
+				<h1 class="header__title">
+					<a href="/" class="header__title">Andor Polgar's website</a>
+				</h1>
+				<span class="navigation">
+					&middot; <a href="/">All</a>
+					&middot; <a href="/category/music">Music</a>
+					&middot; <a href="/category/cinemascope">Cinemascope</a>
+					&middot; <a href="/about">About</a>
+					&middot; &#x1F37A; <a href="/beers">Beerlog</a>
+					&middot; <a target="_blank" href="https://instagram.com/_andormade">Instagram</a>
+					&middot; <a target="_blank" href="https://www.youtube.com/channel/UCF_EgDIkYFIeu-19KleLnFA">YouTube</a>
+				</span>
+			</div>
+			<div class="page">
+	<h2>Guestbook</h2>
+
+<p>You can add your entry by forking <a href="https://github.com/andormade/andor.cool">the repository</a> of this website and sending a pull request with your changes in the <a href="https://github.com/andormade/andor.cool/blob/master/guestbook.html">guestbook.html</a> file. You can find the rules of contributon in the <a href="https://github.com/andormade/andor.cool/blob/master/CONTRIBUTING.md">CONTIBUTING.md</a></p>
+
+</div>
+
+		</div>
+
+		<script>
+			if (window.netlifyIdentity) {
+			  window.netlifyIdentity.on("init", user => {
+				if (!user) {
+				  window.netlifyIdentity.on("login", () => {
+					document.location.href = "/admin/";
+				  });
+				}
+			  });
+			}
+		</script>
+	</body>
+</html>
