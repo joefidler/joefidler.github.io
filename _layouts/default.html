@@ -1,53 +1,56 @@
----
----
-
 <!DOCTYPE html>
-<html class="">
-<head>
-  <meta charset="UTF-8">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ site.data.settings.seo.description }}">
-  <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
-  <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+		<meta name="description" content="{{ site.description }}">
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
+		<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
-  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		{% capture render_time %}{% render_time %}{% endcapture %}
+		{% capture cache_buster %}?c={{ render_time | date: "%Y%m%d%H%M" }}{% endcapture %}
 
-  <!-- Use Atom -->
-  {% feed_meta %}
+		{% include analytics.html %}
+		
+		<link href="{{ "/css/main.css" | prepend: baseurl | append: cache_buster }}" media="screen" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300|Roboto:900&subset=latin-ext" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 
-  <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
+		<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/atom.xml" />
 
-  {% include analytics.html %}
+		<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="header">
+				<h1 class="header__title">
+					<a href="{{ baseurl }}/" class="header__title">{{ site.title }}</a>
+				</h1>
+				<span class="navigation">
+					&middot; <a href="{{ baseurl }}/">All</a>
+					&middot; <a href="{{ baseurl }}/category/music">Music</a>
+					&middot; <a href="{{ baseurl }}/category/cinemascope">Cinemascope</a>
+					&middot; <a href="{{ baseurl }}/about">About</a>
+					&middot; &#x1F37A; <a href="{{ baseurl }}/beers">Beerlog</a>
+					&middot; <a target="_blank" href="https://instagram.com/_andormade">Instagram</a>
+					&middot; <a target="_blank" href="https://www.youtube.com/channel/UCF_EgDIkYFIeu-19KleLnFA">YouTube</a>
+				</span>
+			</div>
+			{{ content }}
+		</div>
 
-</head>
-<body>
-
-<div class="site-container">
-
-  {% include header.html %}
-
-  {{ content }}
-
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="{{ site.github.url }}/assets/js/functions.js"></script>
-</body>
+		<script>
+			if (window.netlifyIdentity) {
+			  window.netlifyIdentity.on("init", user => {
+				if (!user) {
+				  window.netlifyIdentity.on("login", () => {
+					document.location.href = "/admin/";
+				  });
+				}
+			  });
+			}
+		</script>
+	</body>
 </html>

@@ -1,17 +1,25 @@
-# Build settings
-
-markdown: kramdown
-permalink: none
-plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
-
-port: 4000
+title: Andor Polgar's website
+email: hngrhorace@gmail.com
+description: >
+  My name is Andor, I'm a hungarian software developer living in Haarlem, North Holland.
+  I enjoy making music with my modular synthesizers and documenting my life through photography.
+baseurl: ""
+url: "http://andor.cool"
+twitter_username: hngrhorace
+github_username:  andormade
+imagehost_url: "http://images.andor.cool/compressed"
+paginate: 7
+paginate_path: "/pages/:num/"
+exclude: ["README.md", "Gemfile.lock", "Gemfile", "LICENSE", "vendor"]
+include: [".htaccess"]
+permalink: /:categories/:year/:month/:day/:title
+plugins:
+  - jekyll-paginate
+  - jekyll-category-pages
 
 sass:
-  sass_dir: assets/css
-  style: :nested
+    sass_dir: _sass
+    style: compressed
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-title:		           "Portfolio Jekyll Theme"
-description:	       "Powered by Jekyll and GitHub Pages"
-author:              "Paul Le"
+# Build settings
+markdown: kramdown

@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-
-<section>
-  <div class="work-container">
-    <h4 class="project-title">{{ page.title }}</h4>
-    <div class="project-load">{{ content }}</div>
-  </div>
-  {% if site.data.settings.disqus.comments %}
-    {% include disqus.html %}
-  {% endif %}
-</section>
-{% include footer.html %}
+<div class="post-list">
+	<div class="post">
+		<div class="post__details">
+			<h2 class="post__title"><a class="post__title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a></h2>
+			<span class="post__date">{{ page.date | date: "%B %-d, %Y" }}</span>
+			{% if page.location %}
+				&middot; <span class="post__location">{{ page.location }}</span>
+			{% endif %}
+		</div>
+		<div class="post__content">{{ page.content }}</div>
+	</div><!-- .post -->
+</div><!-- .post-list -->
