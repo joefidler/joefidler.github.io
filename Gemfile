@@ -1,7 +1,5 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
-ruby RUBY_VERSION
-gem "jekyll", "3.8.4"
-group :jekyll_plugins do
-    gem "jekyll-paginate"
-    gem "jekyll-category-pages"
-end
+gemspec
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

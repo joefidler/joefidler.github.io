@@ -1,15 +1,47 @@
 ---
 layout: default
 ---
-<div class="post-list">
-	<div class="post">
-		<div class="post__details">
-			<h2 class="post__title"><a class="post__title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a></h2>
-			<span class="post__date">{{ page.date | date: "%B %-d, %Y" }}</span>
-			{% if page.location %}
-				&middot; <span class="post__location">{{ page.location }}</span>
-			{% endif %}
-		</div>
-		<div class="post__content">{{ page.content }}</div>
-	</div><!-- .post -->
-</div><!-- .post-list -->
+
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <header class="post-header">
+    <div class="post-back">
+      <a class="black-link" href="{{ site.url | relative_url }}">
+        ← {{ site.moving.back_to }}
+      </a>
+    </div>
+
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+    <p class="post-meta">
+      <time
+        class="dt-published"
+        datetime="{{ page.date | date_to_xmlschema }}"
+        itemprop="datePublished"
+      >
+        {%- assign date_format = "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%} •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person"
+        ><span class="p-author h-card" itemprop="name">{{
+          page.author | escape
+        }}</span></span
+      >
+      {%- endif -%}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
