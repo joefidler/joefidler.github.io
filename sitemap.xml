@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://joefidler.github.io/2019/09/22/polaroid-williamsburg-2/</loc>
-<lastmod>2019-09-22T00:00:00+10:00</lastmod>
+<loc>https://joefidler.github.io/2019/08/26/brunch-swag/</loc>
+<lastmod>2019-08-26T00:00:00+10:00</lastmod>
 </url>
 <url>
-<loc>https://joefidler.github.io/2019/09/23/big_man/</loc>
-<lastmod>2019-09-23T00:00:00+10:00</lastmod>
+<loc>https://joefidler.github.io/2019/09/10/lumbersexual/</loc>
+<lastmod>2019-09-10T00:00:00+10:00</lastmod>
 </url>
 <url>
 <loc>https://joefidler.github.io/404</loc>
 </url>
 <url>
-<loc>https://joefidler.github.io/style-guide/</loc>
+<loc>https://joefidler.github.io/info/</loc>
 </url>
 <url>
 <loc>https://joefidler.github.io/subscribe/</loc>
@@ -21,18 +21,15 @@
 <loc>https://joefidler.github.io/</loc>
 </url>
 <url>
-<loc>https://joefidler.github.io/tag/dummy-text/</loc>
+<loc>https://joefidler.github.io/tag/squid/</loc>
+</url>
+<url>
+<loc>https://joefidler.github.io/tag/mixtape/</loc>
 </url>
 <url>
 <loc>https://joefidler.github.io/tag/moon-drinking/</loc>
 </url>
 <url>
 <loc>https://joefidler.github.io/tag/kale/</loc>
-</url>
-<url>
-<loc>https://joefidler.github.io/tag/lettuce/</loc>
-</url>
-<url>
-<loc>https://joefidler.github.io/tag/carrots/</loc>
 </url>
 </urlset>
