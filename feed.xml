@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Bernardian Journal</title>
+    <title>Joe Fidler</title>
     <description>Musings, photography, technology and ... what the hell just happened!
 </description>
     <link>https://joefidler.github.io</link>
     <atom:link href="https://joefidler.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Sep 2019 09:38:49 +1000</pubDate>
-    <lastBuildDate>Sat, 28 Sep 2019 09:38:49 +1000</lastBuildDate>
+    <pubDate>Sun, 29 Sep 2019 15:54:16 +1000</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2019 15:54:16 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Lumbersexual</title>
-        <description>&lt;h2 id=&quot;pellentesque-non-felis-ornare-sapien-sodales-pulvinar-eget-in-mauris&quot;&gt;Pellentesque non felis ornare sapien sodales pulvinar eget in mauris.&lt;/h2&gt;
+        <description>&lt;p&gt;this is an excerpt of the post. Love ya!
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2 id=&quot;pellentesque-non-felis-ornare-sapien-sodales-pulvinar-eget-in-mauris&quot;&gt;Pellentesque non felis ornare sapien sodales pulvinar eget in mauris.&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/10-2019/P7152367_01.jpg&quot; alt=&quot;Dreamcatcher&quot; /&gt; cronut neutra forage lo-fi. +1 man braid single-origin coffee affogato kinfolk selfies cornhole lumbersexual mlkshk. Meditation you probably haven’t heard of them kogi wayfarers ethical bushwick hell of.&lt;/p&gt;
 
