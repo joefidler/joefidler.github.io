@@ -4,24 +4,29 @@
     <title>Joe Fidler's Blog Bites</title>
     <description>Ideas, photography, technology and ... what the hell just happened!
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Sep 2019 10:11:17 +1000</pubDate>
-    <lastBuildDate>Mon, 30 Sep 2019 10:11:17 +1000</lastBuildDate>
+    <link>https://joefidler.github.io</link>
+    <atom:link href="https://joefidler.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Sep 2019 11:13:21 +1000</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2019 11:13:21 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>The light at Crowdy Head</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/10-2019/2019-06-16-0013.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://goo.gl/maps/99GE1WbRcWzN3afy5&quot;&gt;Crowdy Head&lt;/a&gt; is on the north side of the Manning River where it opens to the sea. Before the roads were useful much of the produce and timber from river towns like Taree and Wingham was transported by costal steamers. These boats needed to make the difficult entry to the Manning and the lighthouse was built to assist with navigation. More about the lighthouse &lt;a href=&quot;https://lighthouses.org.au/nsw/crowdy-head-lighthouse/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have visited Crowdy Head and photographed the lighthouse many times, here are some of the results.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/10-2019/2019-06-16-0012.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/10-2019/lighthouse_at_Crowdy_Head.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/10-2019/Crowdy+head+light.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/10-2019/img010.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Sep 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/2019/09/28/The_lighthouse-at-crowdy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/28/The_lighthouse-at-crowdy/</guid>
+        <link>https://joefidler.github.io/2019/09/28/The_lighthouse-at-crowdy/</link>
+        <guid isPermaLink="true">https://joefidler.github.io/2019/09/28/The_lighthouse-at-crowdy/</guid>
         
         <category>photography</category>
         
