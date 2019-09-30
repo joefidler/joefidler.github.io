@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://joefidler.github.io/2019/09/28/The_lighthouse-at-crowdy/</loc>
+<loc>http://localhost:4000/2019/09/28/The_lighthouse-at-crowdy/</loc>
 <lastmod>2019-09-28T00:00:00+10:00</lastmod>
 </url>
 <url>
-<loc>https://joefidler.github.io/404</loc>
+<loc>http://localhost:4000/404</loc>
 </url>
 <url>
-<loc>https://joefidler.github.io/info/</loc>
+<loc>http://localhost:4000/info/</loc>
 </url>
 <url>
-<loc>https://joefidler.github.io/subscribe/</loc>
+<loc>http://localhost:4000/subscribe/</loc>
 </url>
 <url>
-<loc>https://joefidler.github.io/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://joefidler.github.io/tag/photography/</loc>
+<loc>http://localhost:4000/tag/photography/</loc>
 </url>
 </urlset>
