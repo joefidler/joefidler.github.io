@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Fidler's Blog Bites</title>
-    <description>Ideas, photography, technology and ... what the hell just happened!
+    <description>Ideas, photography, technology and ... what the hell just happened?
 </description>
-    <link>https://joefidler.github.io</link>
-    <atom:link href="https://joefidler.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Sep 2019 11:13:21 +1000</pubDate>
-    <lastBuildDate>Mon, 30 Sep 2019 11:13:21 +1000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Oct 2019 09:40:58 +1100</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2019 09:40:58 +1100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -25,10 +25,12 @@
 &lt;p&gt;&lt;img src=&quot;https://joefidlerblog.s3-us-west-1.amazonaws.com/images/10-2019/img010.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Sep 2019 00:00:00 +1000</pubDate>
-        <link>https://joefidler.github.io/2019/09/28/The_lighthouse-at-crowdy/</link>
-        <guid isPermaLink="true">https://joefidler.github.io/2019/09/28/The_lighthouse-at-crowdy/</guid>
+        <link>http://localhost:4000/2019/09/28/The_lighthouse-at-crowdy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/28/The_lighthouse-at-crowdy/</guid>
         
         <category>photography</category>
+        
+        <category>Australia</category>
         
         
       </item>
