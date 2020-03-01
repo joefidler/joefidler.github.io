@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Fidler's Blog Bites</title>
-    <description>Ideas, photography, technology and ... what the hell just happened?
-</description>
+    <description></description>
     <link>https://joefidler.github.io</link>
     <atom:link href="https://joefidler.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Mar 2020 11:49:06 +1100</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2020 11:49:06 +1100</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2020 11:58:11 +1100</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2020 11:58:11 +1100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
