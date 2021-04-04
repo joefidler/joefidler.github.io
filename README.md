@@ -3,4 +3,4 @@ Technologist with [Smith Fidler](http://smithfidler.com) a media relations and c
 ### What's here:
 Technology ideas, setups and implementations, in case they are helpful, use at your own risk. See the [Wiki pages](https://github.com/joefidler/joefidler.github.io/wiki)
 ### I also maintain a personal blog: 
-http://heygday.com
+[http://heygday.com](http://heygday.com)
