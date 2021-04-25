@@ -11,4 +11,4 @@ Cheers, Joe.
 * [Access AWS S3 buckets from a Silverblue desktop](https://github.com/joefidler/joefidler.github.io/wiki/Access-S3-buckets-from-Fedora-SIlverblue)
 * [Android tools (ADB, Fastboot) on Fedora Silverblue](https://github.com/joefidler/joefidler.github.io/wiki/Using-Android-tools-(ADB,-Fastboot)-on-Fedora-Silverblue)
 * [Backup & restore toolbox containers](https://github.com/joefidler/joefidler.github.io/wiki/Backup-and-restore-Toolbox-containers)
-* [Using AWS Route 53 to create a dynamic DNS]
+* [Using AWS Route 53 to create a dynamic DNS](https://github.com/joefidler/joefidler.github.io/wiki/Using-AWS-Route-53-to-create-a-dynamic-DNS)
