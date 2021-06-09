@@ -6,6 +6,7 @@ Cheers, Joe.
 
 ### Technology ideas, setups and implementations:
 
+* [Nextcloud using Podman (behind a firewall)](https://github.com/joefidler/joefidler.github.io/wiki/Nextcloud-using-podman-behind-a-firewall)
 * [Preview, share and deploy a static site using a containerized Hugo](https://github.com/joefidler/joefidler.github.io/wiki/Preview,-share-and-deploy-(to-S3)-a-Hugo-static-web-site)
 * [Using Podman with reserved network ports](https://github.com/joefidler/joefidler.github.io/wiki/Redirecting-reserved-network-ports-for-Podman)
 * [Using a toolbox to compile an app on Fedora SilverBlue](https://github.com/joefidler/joefidler.github.io/wiki/Compile-a-C-language-app-on-Fedora-Silverblue-using-a-toolbox)
