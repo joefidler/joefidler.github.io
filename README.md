@@ -6,6 +6,7 @@ Cheers, Joe.
 
 ### Technology ideas, setups and implementations:
 
+* [Trusted domains in a Podman containerized Nextcloud](https://github.com/joefidler/joefidler.github.io/wiki/Trusted-domains-in-a-Podman-containerized-Nextcloud)
 * [Nextcloud background jobs](https://github.com/joefidler/joefidler.github.io/wiki/Nextcloud-Background-Jobs)
 * [Nextcloud using Podman (behind a firewall)](https://github.com/joefidler/joefidler.github.io/wiki/Nextcloud-using-podman-behind-a-firewall)
 * [Preview, share and deploy a static site using a containerized Hugo](https://github.com/joefidler/joefidler.github.io/wiki/Preview,-share-and-deploy-(to-S3)-a-Hugo-static-web-site)
