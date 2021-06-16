@@ -20,4 +20,9 @@ Cheers, Joe.
 * [Using AWS Route 53 to create a dynamic DNS](https://github.com/joefidler/joefidler.github.io/wiki/Using-AWS-Route-53-to-create-a-dynamic-DNS.)
 
 
-![https://getfedora.org/static/images/fedora-silverblue-logo.pn](https://silverblue.fedoraproject.org/)
+![nextcloud](https://user-images.githubusercontent.com/10540180/122288796-5323bf00-cf35-11eb-90f3-bc4cbb238734.png)
+![Fedora](https://user-images.githubusercontent.com/10540180/122288814-5919a000-cf35-11eb-9ae6-845b1cb558b8.png)
+
+
+   
+ 
