@@ -1,4 +1,4 @@
-Hello, I am a Technologist with [Smith Fidler](http://smithfidler.com) a media relations and communications company based in Nevada and Australia. I help out with writing and communications for our technology focused clients as well as with general operations. In my spare time I tinker with open-source software, mostly [Fedora Linux](https://getfedora.org/) Silverblue and CoreOS, and [Android](https://source.android.com/), which is where most of the implementations documented here are based. Feel free to try them and hopefully you will find then useful. They have worked for me, but only to a level I need, so use them at your own risk.
+Hello, I am a Technologist with [Smith Fidler](http://smithfidler.com) a media relations and communications company based in Nevada and Australia. I help out with writing and communications for our technology focused clients as well as with general operations. In my spare time I tinker with open-source software, mostly [Fedora Linux](https://getfedora.org/) [Silverblue](https://silverblue.fedoraproject.org/) and [CoreOS](https://getfedora.org/en/coreos?stream=stable), [Podman](https://podman.io/) and [Android](https://source.android.com/), which is where most of the implementations documented here are based. Feel free to try them and hopefully you will find then useful. They have worked for me, but only to a level I need, so use them at your own risk.
 
 Feel free to reach out on the [comments page](https://github.com/joefidler/joefidler.github.io/discussions/2#discussion-3404039).
 
@@ -18,12 +18,6 @@ Cheers, Joe.
 * [Android tools (ADB, Fastboot) on Fedora Silverblue](https://github.com/joefidler/joefidler.github.io/wiki/Using-Android-tools-(ADB,-Fastboot)-on-Fedora-Silverblue)
 * [Backup & restore toolbox containers](https://github.com/joefidler/joefidler.github.io/wiki/Backup-and-restore-Toolbox-containers)
 * [Using AWS Route 53 to create a dynamic DNS](https://github.com/joefidler/joefidler.github.io/wiki/Using-AWS-Route-53-to-create-a-dynamic-DNS.)
-
-
-![nextcloud](https://user-images.githubusercontent.com/10540180/122288796-5323bf00-cf35-11eb-90f3-bc4cbb238734.png)
-![Fedora](https://user-images.githubusercontent.com/10540180/122288814-5919a000-cf35-11eb-9ae6-845b1cb558b8.png)
-![fedora-silverblue-logo](https://user-images.githubusercontent.com/10540180/122289106-ac8bee00-cf35-11eb-8893-1eefe76a648d.png)
-![podman](https://user-images.githubusercontent.com/10540180/122289167-bd3c6400-cf35-11eb-8704-10917a153740.png)
 
 
    
