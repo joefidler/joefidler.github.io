@@ -6,6 +6,7 @@ Cheers, Joe.
 
 ### Technology ideas, setups and implementations:
 
+* [Nextcloud on Podman behind Bunker Nginx server (version 1.2.7 and higher)](https://github.com/joefidler/joefidler.github.io/wiki/Nextcloud-on-Podman-behind-Bunker-Nginx-server-(version-1.2.7-and-higher))
 * [Nextcloud using Podman with a Bunkerized Nginx HTTPS web server front-end](https://github.com/joefidler/joefidler.github.io/wiki/Run-Nextcloud-on-Podman,-with-a-secured-Bunkerized-Nginx-HTTPS-web-server-as-front-end.)
 * [Trusted domains in a Podman containerized Nextcloud](https://github.com/joefidler/joefidler.github.io/wiki/Trusted-domains-in-a-Podman-containerized-Nextcloud)
 * [Nextcloud background jobs](https://github.com/joefidler/joefidler.github.io/wiki/Nextcloud-Background-Jobs)
